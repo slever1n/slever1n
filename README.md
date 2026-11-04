@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/slever1n/slever1n/output/snake.svg" alt="Snake animation" />
 
 <a href="buymeacoffee.com/sleverin">
-<h2 align="left">Buy Me A Coffee!</h2>
+<h2>Buy Me A Coffee!</h2>
 </a>
 
 
